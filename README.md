@@ -1,1 +1,1 @@
-# HoshiimonoList
+# Nuxt-Laravel-Dockersample
